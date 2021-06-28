@@ -81,6 +81,7 @@
 		{
 			"Id": "FallInRidgeside",
 			"File": "Music/FallInRidgeside.ogg",
+			"Loop": false,
 			"Preload": true
 		},
 		{
