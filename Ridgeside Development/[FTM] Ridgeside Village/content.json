@@ -664,49 +664,50 @@
     "WinterItemIndex": [],
     "CustomTileIndex": []
   },
-  //  "Large_Object_Spawn_Settings": {
-//    "Areas": [
-//      {
-//        "ObjectTypes": [
-//          "Log"
-  //      ],
-    //    "FindExistingObjectLocations": true,
-      //  "PercentExtraSpawnsPerSkillLevel": 0,
-//        "RelatedSkill": "Foraging",
-  //      "UniqueAreaID": "Ridge Log",
-    //    "MapName": "Custom_Ridgeside_Ridge",
-      //  "MinimumSpawnsPerDay": 1,
-//        "MaximumSpawnsPerDay": 1,
-  //      "IncludeTerrainTypes": [],
-    //    "ExcludeTerrainTypes": [],
-      //  "IncludeCoordinates": [
-//          "24,14/28,16"
-  //      ],
-    //    "ExcludeCoordinates": [],
-      //  "StrictTileChecking": "Maximum",
-        //"SpawnTiming": {
-//          "StartTime": 600,
-  //        "EndTime": 600,
-    //      "MinimumTimeBetweenSpawns": 10,
-      //    "MaximumSimultaneousSpawns": null,
-        //  "OnlySpawnIfAPlayerIsPresent": false,
-          //"SpawnSound": ""
-//        },
-  //      "ExtraConditions": {
-    //      "Years": [],
-      //    "Seasons": [],
-        //  "Days": [],
-          //"WeatherYesterday": [],
-//          "WeatherToday": [],
-  //        "WeatherTomorrow": [],
-    //      "EPUPreconditions": [],
-      //    "LimitedNumberOfSpawns": 1
-        //},
-//        "DaysUntilSpawnsExpire": null
-  //    }
-//    ],
-//    "CustomTileIndex": []
-//  },
+    "Large_Object_Spawn_Settings": {
+    "Areas": [
+      {
+        "ObjectTypes": [
+          "Log"
+        ],
+        "FindExistingObjectLocations": false,
+        "PercentExtraSpawnsPerSkillLevel": 0,
+        "RelatedSkill": "Foraging",
+        "UniqueAreaID": "Ridge Log",
+        "MapName": "Custom_Ridgeside_Ridge",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 1,
+        "IncludeTerrainTypes": [],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [
+          "24,14/28,16"
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "Maximum",
+        "DaysUntilSpawnsExpire": 0,
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": 1
+        },
+        "DaysUntilSpawnsExpire": null
+      }
+    ],
+    "CustomTileIndex": []
+  },
   "Ore_Spawn_Settings": {
     "Areas": [
       {
