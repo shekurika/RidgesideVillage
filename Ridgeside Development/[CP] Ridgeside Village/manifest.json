@@ -31,10 +31,6 @@
         "IsRequired": true,
 	   },
 	   {
-        "UniqueID": "PurrplingCat.QuestEssentials",
-        "IsRequired": true,
-	   },
-	   {
         "UniqueID": "PurrplingCat.CustomGiftDialogue",
         "IsRequired": false,
 	   },	   	  	   	   
