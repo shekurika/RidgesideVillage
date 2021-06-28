@@ -2535,7 +2535,13 @@
 "event-75160189.05": "Say, @? How about we make this our special little project?$h#$b#We can restore the minecart system on our own.#$b#I mean, we do need an easier way to get supplies into the village, so why not use the carts?$4#$b#I guess you could fit inside of a cart as well... If you're not afraid.$h#$b#I'm sure a rickety old cart won't scare you, ha ha!$4#$b#I'm just messing with you, @.$h",
 "event-75160189.06": "Okay, this is the plan...",
 "event-75160189.07": "I'll convince a wealthy investor to invest some money into the village. But for that to happen I need to convince them you're self-sufficient and financially independent.#$b#So, all you've got to do is earn at least 150,000g. That should be enough to impress them!$h#$b#When you've already earned this much, just come by the office so I can do the paperwork, got it?$h",
-"event-75160189.08": "Excellent!$h#$b#Good luck!$h#$b#Pleasure doing business with you, @!$h#$b#I'm looking forward to the restoration.$h",
+"event-75160189.08": "Excellent!$h#$b#Good luck!$h#$b#Pleasure doing business with you, @!$h#$b#Remember! Come by my office when you've earned enough!#$b#I'm looking forward to the restoration.$h",
+
+//Lenny gets the money for minecart
+"event-75160191.01": "Ah, @! Nice to see you!$h#$b#I assume you're here for the Minecart Restoration Project? Is that 150,000g in your pocket or are you happy to see me?$h",
+"event-75160191.02": "Kidding! I'm really happy that you've managed to achieve such an amazing feat!$h#$b#Alright, I just need you to sign here, here, here and here.#$b#Alright, that should do it.",
+"event-75160191.03": "I think we're all done!$h#$b#Thank you so much, @!$h#$b#I'll get some contractors to work on it as soon as possible!$h",
+"event-75160191.04": "I can't wait!$h",
 
 	//MineCart Restored
 "event-75160190.01": "I think it's done!$h#$b#Good job, everyone!$h",
@@ -4727,8 +4733,8 @@
 "Alissa.Dialogue.winter_1": "The winter can be a good thing too, I get to relax and focus on other stuff this season besides farming.$u",
 "Alissa.Dialogue.winter_7": "Are you going to participate in the fishing competition for tomorrow's festival, @?#$b#Well if you are, good luck! You sure need it, haha.$h#$b#I hear the competition between Mr. Ezekiel, Uncle Bert and Jeric are so close that they're going neck and neck!",
 "Alissa.Dialogue.winter_14": "Oh yeah! Tomorrow's the start of the night market right?#$e#I can't wait to listen to the mermaid's song again. I hope I can try and follow the melody.$7",
-"Alissa.Dialogue.winter_15": "I bought some exotic seeds. I can't wait to plant them next season!$h",
-"Alissa.Dialogue.winter_16": "Auntie saw a microphone for sale.#$b#I was really embarrassed when she told me to test it on the spot.$7",
+//"Alissa.Dialogue.winter_15": "I bought some exotic seeds. I can't wait to plant them next season!$h",
+//"Alissa.Dialogue.winter_16": "Auntie saw a microphone for sale.#$b#I was really embarrassed when she told me to test it on the spot.$7",
 "Alissa.Dialogue.winter_17": "I hope you got some interesting items, @! I was able to buy some good stuff.$h",
 "Alissa.Dialogue.winter_24": "The year's ending, @. Have you had a good year?#$b#I sure hope you did. Let's make the most out of the next alright?$h",
 //Days of the Week
@@ -4830,9 +4836,9 @@
 "Aguar.Dialogue.winter_1": "The river is at its lowest level during the winter.#$b#What you see now is primarily groundwater.",
 "Aguar.Dialogue.winter_7": "The ice on the surface of the lake helps protect it from debris and contamination...#$b#...like the kind that happens when the simple-minded cut holes in it to fish.$a",
 "Aguar.Dialogue.winter_14": "The night market begins tomorrow, does it?#$b#I see.",
-"Aguar.Dialogue.winter_15": "Have you seen the deep-sea fishing contraption at the night market?#$e#It's monstrous.",
+//"Aguar.Dialogue.winter_15": "Have you seen the deep-sea fishing contraption at the night market?#$e#It's monstrous.",
 "Aguar.Dialogue.winter_16": "I must see if I can find time to communicate with the mermaid...$h",
-"Aguar.Dialogue.winter_17": "%Mr. Aguar is ignoring you. He appears to be humming the mermaid's song under his breath.",
+//"Aguar.Dialogue.winter_17": "%Mr. Aguar is ignoring you. He appears to be humming the mermaid's song under his breath.",
 "Aguar.Dialogue.winter_24": "The year's nearing its end, eh?#$b#The snow will melt soon, and the cycle will start over again.$h",
 
 //Days of the Week
@@ -4924,8 +4930,8 @@
 "Bert.Dialogue.winter_7": "If you wanna win tomorrow, you gotta be fast 'n' alert!#$e#Become one with the rod.#$b#The moment you feel the slightest pull, you gotta reel 'em in!$h",
 "Bert.Dialogue.winter_14": "They sell just about everything at that night market...$uBut produce can't keep too long out there, don't you think?",
 "Bert.Dialogue.winter_15": "Fish.$u#$b#They've just been eatin' fish for months!$u#$b#Can you believe it, @?$u",
-"Bert.Dialogue.winter_16": "Brought some samples of my finest produce tonight, @.#$e#I don't mean to be rude to these fine folk, but sometimes you just need sumthin' from the earth, you know?$h",
-"Bert.Dialogue.winter_17": "Sold a bushel and a half of some of the hardier greens.#$e#They'll have fresh veggies out there on the open seas!$h",
+//"Bert.Dialogue.winter_16": "Brought some samples of my finest produce tonight, @.#$e#I don't mean to be rude to these fine folk, but sometimes you just need sumthin' from the earth, you know?$h",
+//"Bert.Dialogue.winter_17": "Sold a bushel and a half of some of the hardier greens.#$e#They'll have fresh veggies out there on the open seas!$h",
 "Bert.Dialogue.winter_24": "I've saved just enough to buy Trinnie the finest doll house you've ever seen.#$e#Near about choked when I saw that price tag, but I tell ya, my little princess's smile is worth that and more.$h",
 
 //Days of the Week
@@ -5017,8 +5023,8 @@
 "Corine.Dialogue.winter_1": "Ooohh, it's so cold!!$u#$b#This is a very fun season though! I especially love drinking hot cocoa by the fire.",
 "Corine.Dialogue.winter_7": "I'm glad that the fish are released after the fishing competition tomorrow.#$b#It'd be a big waste to try and cook them all; they'd never get eaten in time.",
 "Corine.Dialogue.winter_14": "I hope I get to buy a cute necklace tomorrow. I once saw a pretty blue shell necklace when I was young!$h#$b#I wanted to buy it then my Mama said it was not for kids.",
-"Corine.Dialogue.winter_15": "Pika always gives me a bonus before the night market.#$h#He’s such a generous boss!",
-"Corine.Dialogue.winter_16": "I wonder if they’ll have glass beads.#$b# I was thinking of making Ysa a bracelet, you know, for being so good to me over the years.$l",
+//"Corine.Dialogue.winter_15": "Pika always gives me a bonus before the night market.#$h#He’s such a generous boss!",
+//"Corine.Dialogue.winter_16": "I wonder if they’ll have glass beads.#$b# I was thinking of making Ysa a bracelet, you know, for being so good to me over the years.$l",
 "Corine.Dialogue.winter_17": "I hope you’ve found something to your liking, @!#$h#The night market leaves tonight, so make your last purchases while you can!$h",
 
 "Corine.Dialogue.winter_24": "It's going to be the end of the year soon, @. I hope you had a good one.#$b#Papa's been looking forward to spring, he hates the cold!$h",
@@ -5123,8 +5129,8 @@
 "Ezekiel.Dialogue.winter_1": "Cold!$a#$b#My hands are cold, my feet are cold, my face is cold.$a#$e#Bah! I can't wait for summer!$a",
 "Ezekiel.Dialogue.winter_7": "Fishing? I do love fishing!$h#$b#I'll win tomorrow, that's for sure!$h",
 "Ezekiel.Dialogue.winter_14": "You see those boats on the horizon?$u#$b#Gotta keep an eye on them, you hear me?$a",
-"Ezekiel.Dialogue.winter_15": "Boats were just merchants, huh?$u#$b#What business do they have here?$a",
-"Ezekiel.Dialogue.winter_16": "Corine's excited that the merchants are here. Hmph.",
+//"Ezekiel.Dialogue.winter_15": "Boats were just merchants, huh?$u#$b#What business do they have here?$a",
+//"Ezekiel.Dialogue.winter_16": "Corine's excited that the merchants are here. Hmph.",
 "Ezekiel.Dialogue.winter_17": "Corine bought me a metal stein last night.$h#$b#At least something good came of these merchants docking at our beach, stinking up our ocean.$a",
 "Ezekiel.Dialogue.winter_24": "I look forward to the feast tomorrow.#$b#Gus makes some good food. But I'm the better brewer!$h",
 
@@ -5221,8 +5227,8 @@
 "Flor.Dialogue.winter_1": "I really love winter. #$b#I love drinking something warm by a fire or getting all bundled up in blankets and thick sweaters... $l#$b#It's my favorite season.$h",
 "Flor.Dialogue.winter_7": "Oh! It's the festival of ice tomorrow, right? #$b#Why do they call it the Festival of Ice when the focus is the fish instead of the ice sculptures or snowmen?",
 "Flor.Dialogue.winter_14": "The night market is fascinating, isn't it? I'm excited.$h",
-"Flor.Dialogue.winter_15": "%Flor acknowledges you with a smile, and then goes back to watching everything at the market with wide eyes.",
-"Flor.Dialogue.winter_16": "%Flor acknowledges you with a smile, and then goes back to watching everything at the market with wide eyes.",
+//"Flor.Dialogue.winter_15": "%Flor acknowledges you with a smile, and then goes back to watching everything at the market with wide eyes.",
+//"Flor.Dialogue.winter_16": "%Flor acknowledges you with a smile, and then goes back to watching everything at the market with wide eyes.",
 "Flor.Dialogue.winter_17": "I bought a painting! I'm really excited to hang it up!$h",
 "Flor.Dialogue.winter_24": "The year's almost over. See you at the festival tomorrow, right?",
 
@@ -5323,9 +5329,9 @@
 "Freddie.Dialogue.winter_1": "6 layers of clothing, and somehow I'm still cold.$u",
 "Freddie.Dialogue.winter_7": "I'm looking forward to tomorrow.#$e#The cold is hard on old bones, though, so Lola and I will be all bundled up.",
 "Freddie.Dialogue.winter_14": "Lola and I used to travel around the world.#$e#It's much more peaceful now, but I do miss those days sometimes.",
-"Freddie.Dialogue.winter_15": "The Night Market always brings back memories.",
+//"Freddie.Dialogue.winter_15": "The Night Market always brings back memories.",
 "Freddie.Dialogue.winter_16": "Bit of a trip down memory lane, this.$s#$e#The coffee they make is the best you'll ever have, trust me.$h",
-"Freddie.Dialogue.winter_17": "If you've had your eye on something, now's the time to get it!#$b#Or you'll have to wait until next year!",
+//"Freddie.Dialogue.winter_17": "If you've had your eye on something, now's the time to get it!#$b#Or you'll have to wait until next year!",
 "Freddie.Dialogue.winter_24": "Almost at the end of another year.#$b#Hopefully, Lola and I will see the next one.$s#$e#Ah, don't worry, I'm kidding.$h",
 
 //Days of the Week
@@ -5426,8 +5432,8 @@
 "Ian.Dialogue.winter_1": "Winter is probably my favorite season.#$b#It snows a lot here in the valley, so I almost always have work to do!$h#$b#The best part?#$b#I don't sweat as much!$h",
 "Ian.Dialogue.winter_7": "I'm excited to make some snowmen tomorrow.$h#$b#Say, do you plan on joining the fishing competition?#$b#I hear Willy's upped his game this year.",
 "Ian.Dialogue.winter_14": "I have to prepare myself both physically and mentally for tonight.#$b#I'm gonna be staying up late again to help Willy prepare the docks for the merchants.",
-"Ian.Dialogue.winter_15": "The creepy guy on the docks shows up every year, but no one knows why.$a#$b#He doesn't pay a vendor's fee, either.$a#$b#If you ask him to leave, he just laughs.$a",
-"Ian.Dialogue.winter_16": "The submarine is a good investment for making a profit.#$b#Willy buys Midnight Squid for a good price.",
+//"Ian.Dialogue.winter_15": "The creepy guy on the docks shows up every year, but no one knows why.$a#$b#He doesn't pay a vendor's fee, either.$a#$b#If you ask him to leave, he just laughs.$a",
+//"Ian.Dialogue.winter_16": "The submarine is a good investment for making a profit.#$b#Willy buys Midnight Squid for a good price.",
 "Ian.Dialogue.winter_17": "I've always been a fan of the lights and vibe of the Night Market.#$b#Something about the boats on the dark water is calming.",
 "Ian.Dialogue.winter_24": "The big holiday tree is so fun to decorate!$h#$b#I look forward to tomorrow.",
 
@@ -5622,8 +5628,8 @@
 "Jeric.Dialogue.winter_1": "Nothing much to do this season.$s#$b#I always gotta save up all year to get ready for winter, but it means I can take a break and focus on other stuff.",
 "Jeric.Dialogue.winter_7": "I don't really fish, but I'll definitely be there tomorrow.$h#$b#Gotta admire the scenery, you know?$6",
 "Jeric.Dialogue.winter_14": "The merchants arrive tomorrow.#$b#They always got good stuff.#$e#I've been saving up for this all year.",
-"Jeric.Dialogue.winter_15": "Governor told me the mermaid show is something else$6$#b#Gotta make sure to see that before they leave.$7",
-"Jeric.Dialogue.winter_16": "They always have good seeds you can't get anywhere else...#$b#I kinda want to buy wholesale and stock my shop, but then I won't have money for the wool I've been eyeing...$s",
+//"Jeric.Dialogue.winter_15": "Governor told me the mermaid show is something else$6$#b#Gotta make sure to see that before they leave.$7",
+//"Jeric.Dialogue.winter_16": "They always have good seeds you can't get anywhere else...#$b#I kinda want to buy wholesale and stock my shop, but then I won't have money for the wool I've been eyeing...$s",
 "Jeric.Dialogue.winter_17": "You should go tell the art dealer you can model for him sometime.$6#$b#There's no way he'd turn a beauty like you down.$7",
 "Jeric.Dialogue.winter_24": "Been a good year, huh @?$h#$e#Next one's gonna be even better.#$b#Got some good plans, you'll see!$h",
 
@@ -5733,8 +5739,8 @@
 "Jio.Dialogue.winter_7": "Snow dampens all noise.#$e#Is it easier to be heard or to be silent, when the world is covered like this?",
 "Jio.Dialogue.winter_14": "I get to meet some old friends tomorrow.",
 "Jio.Dialogue.winter_15": "They bring stories and memories with them.$s",
-"Jio.Dialogue.winter_16": "I like this coffee.$h",
-"Jio.Dialogue.winter_17": "Every boat has a merchant.#$e#Some only appear for the worthy few.$h",
+//"Jio.Dialogue.winter_16": "I like this coffee.$h",
+//"Jio.Dialogue.winter_17": "Every boat has a merchant.#$e#Some only appear for the worthy few.$h",
 "Jio.Dialogue.winter_24": "A holiday party tomorrow?$u#$e#It sounds enjoyable.$h",
 
 //Days of the Week
@@ -5827,8 +5833,8 @@
 "Keahi.Dialogue.winter_7": "I'm gonna make a giant snowman tomorrow for Ysa!#$e#It'll be so awesome!$h",
 "Keahi.Dialogue.winter_14": "I have to go with my dad to the night market tomorrow.#$e#He said something about learning how to bargain?",
 "Keahi.Dialogue.winter_15": "I don't get what Dad's doing.#$e#What does bargain mean?",
-"Keahi.Dialogue.winter_16": "Dad says I have to convince people to make things pay less.#$e#I'm not supposed to argue with grownups, though.$u",
-"Keahi.Dialogue.winter_17": "I tried to bargain for a piece of candy at Pierre's, and then Dad said that's not how bargaining works.$u",
+//"Keahi.Dialogue.winter_16": "Dad says I have to convince people to make things pay less.#$e#I'm not supposed to argue with grownups, though.$u",
+//"Keahi.Dialogue.winter_17": "I tried to bargain for a piece of candy at Pierre's, and then Dad said that's not how bargaining works.$u",
 "Keahi.Dialogue.winter_24": "It's gonna be an awesome new year!$h#$b#I can't wait!$h",
 
 //Days of the Week
@@ -5921,8 +5927,8 @@
 "Kenneth.Dialogue.winter_7": "Hey @! Are you going to be fishing tomorrow? #$b#I hope to see you there!$h",
 "Kenneth.Dialogue.winter_14": "Are you going to look for anything specific at the night market tomorrow, @?#$e#I'm not looking for anything in particular, but I like to browse!$h",
 "Kenneth.Dialogue.winter_15": "I set up all the hanging lights around the pier for this year's night market.#$b# I hope it all goes well.",
-"Kenneth.Dialogue.winter_16": "I haven't found anything worth buying tonight.#$b# Has anything sparked your attention, @?",
-"Kenneth.Dialogue.winter_17": "Hey there, @! Did you know that submarines have been used for centuries? #$b# And now we can even fish in them!",
+//"Kenneth.Dialogue.winter_16": "I haven't found anything worth buying tonight.#$b# Has anything sparked your attention, @?",
+//"Kenneth.Dialogue.winter_17": "Hey there, @! Did you know that submarines have been used for centuries? #$b# And now we can even fish in them!",
 "Kenneth.Dialogue.winter_24": "The Feast of the Winter Star makes me anxious - the decorations use up so much power!$s#$b#I just hope there isn't a power surge.",
 
 //Days of the Week
@@ -6023,8 +6029,8 @@
 "Kiwi.Dialogue.winter_7": "Kiwi does not swim.#$e#But catch fish, maybe?$h",
 "Kiwi.Dialogue.winter_14": "Good friends come tomorrow.$h#$e#Many old friends...$s",
 "Kiwi.Dialogue.winter_15": "Boats bring new things.",
-"Kiwi.Dialogue.winter_16": "Someday Kiwi ride boat, maybe?#$e#See new places?$u",
-"Kiwi.Dialogue.winter_17": "Maybe Kiwi travel someday, but Kiwi always come back to valley.$h",
+//"Kiwi.Dialogue.winter_16": "Someday Kiwi ride boat, maybe?#$e#See new places?$u",
+//"Kiwi.Dialogue.winter_17": "Maybe Kiwi travel someday, but Kiwi always come back to valley.$h",
 "Kiwi.Dialogue.winter_24": "New year soon.#$b#Same Kiwi.$h#$e#New Kiwi work, maybe?$u",
 
 //Days of the Week
@@ -6210,9 +6216,9 @@
 "Lola.Dialogue.winter_1": "This cold is awful hard on fragile old bones.#$b#You know what the best solution for the cold is?#$b#A hot drink![395]#$e#Stay warm, dear.$h",
 "Lola.Dialogue.winter_7": "I may be old, but I'm not weak!$a#$e#I know people mean well, but I wish they would stop offering to carry my shopping or some nonsense.$s",
 "Lola.Dialogue.winter_14": "Freddie and I were talking about going on a trip the other day, but when I dug my suitcase out of the attic, it was a wreck!$u#$b#I guess some vermin got into it or something.$s",
-"Lola.Dialogue.winter_15": "I'm going to look for a new suitcase.",
+//"Lola.Dialogue.winter_15": "I'm going to look for a new suitcase.",
 "Lola.Dialogue.winter_16": "I haven't found a suitcase yet, but I had some lovely conversations with the man making coffee!$h",
-"Lola.Dialogue.winter_17": "I found a suitcase, dear, and I have to say I'm very excited!$h",
+//"Lola.Dialogue.winter_17": "I found a suitcase, dear, and I have to say I'm very excited!$h",
 "Lola.Dialogue.winter_24": "Freddie and I are going on a little trip after tomorrow's festival!#$b#If the weather permits, of course.$h",
 
 //Days of the Week
@@ -6304,9 +6310,9 @@
 "Maddie.Dialogue.winter_1": "You ought to stay inside more this season.#$e#If you're out and about as much as you usually are, you'll probably get a cold.$7",
 "Maddie.Dialogue.winter_7": "Usually I don't mind the festivals, but I really don't understand the point of tomorrow's festival.$a#$e#Fishing in the middle of an ice cold forest isn't exactly my cup of tea.$a",
 "Maddie.Dialogue.winter_14": "I don't want to go to the festival tomorrow, but Mr. Aguar needs a companion.#$b#He sometimes forgets to take his meds at night.$7",
-"Maddie.Dialogue.winter_15": "I hope that old man doesn't exhaust himself too much at the night market.$s#$b#Sometimes he forgets he's ancient.",
+//"Maddie.Dialogue.winter_15": "I hope that old man doesn't exhaust himself too much at the night market.$s#$b#Sometimes he forgets he's ancient.",
 "Maddie.Dialogue.winter_16": "Hmmm... I do hope I can find a nice pair of glasses tomorrow.$7#$b#I really need a new pair, the one I have on is getting blurry.$s",
-"Maddie.Dialogue.winter_17": "The amount of people here is starting to stress me out.$a",
+//"Maddie.Dialogue.winter_17": "The amount of people here is starting to stress me out.$a",
 "Maddie.Dialogue.winter_24": "Even a cranky lady like me can find joy in the Feast of the Winter Star.$9#$b#If I didn't show gratitude every once in a while, I'd be absolutely miserable!$h",
 
 //Days of the Week
@@ -6407,8 +6413,8 @@
 "Olga.Dialogue.winter_7": "Brr...#$b#Do I have to be there tomorrow?$s#$b#I don't like the cold, and neither does Bert!$s",
 "Olga.Dialogue.winter_14": "Winter nights at the beach are so darn cold!$a#$b#I'll have to dress warmer tomorrow, so I can stay longer.$s",
 "Olga.Dialogue.winter_15": "Bert's muttering about fish.#$b#Why is he muttering about fish?$s",
-"Olga.Dialogue.winter_16": "It might look like a sales ploy, but truth be told, Bert really wants these folks to have vegetables.$s#$b#He's a good man.$h",
-"Olga.Dialogue.winter_17": "Bert got his heart set on this ridiculous doll house for Trinnie's Winter Star present.$u#$b#He is out of his mind!$a",
+//"Olga.Dialogue.winter_16": "It might look like a sales ploy, but truth be told, Bert really wants these folks to have vegetables.$s#$b#He's a good man.$h",
+//"Olga.Dialogue.winter_17": "Bert got his heart set on this ridiculous doll house for Trinnie's Winter Star present.$u#$b#He is out of his mind!$a",
 "Olga.Dialogue.winter_24": "Hope you have a wonderful year, @.$h#$b#Tomorrow night's the big feast!#$b#Enjoy the time off, you hear?$h",
 
 //Days of the Week
@@ -6500,9 +6506,9 @@
 "Philip.Dialogue.winter_1": "Be careful to stay warm, @!#$b#Hypothermia is a serious bummer.$s",
 "Philip.Dialogue.winter_7": "You have fishing experience, right?#$b#I'm worried about someone overexerting themselves and pulling something, tomorrow.$s",
 "Philip.Dialogue.winter_14": "The Night Market starts tomorrow?$u#$b#I wonder if they'll have any rare books...",
-"Philip.Dialogue.winter_15": "Did you see the mermaid?$u#$b#I’m not crazy, right?#$b#That really happened?$u",
+//"Philip.Dialogue.winter_15": "Did you see the mermaid?$u#$b#I’m not crazy, right?#$b#That really happened?$u",
 "Philip.Dialogue.winter_16": "I think I need to stop trying to make all this make sense.$s#$b#Mermaids exist, pigs can pull boats, it’s fine.$u",
-"Philip.Dialogue.winter_17": "I don’t know how, but they had a first-run copy of Cyberman #13!$u#$b#I’ve wanted this for years!$h",
+//"Philip.Dialogue.winter_17": "I don’t know how, but they had a first-run copy of Cyberman #13!$u#$b#I’ve wanted this for years!$h",
 "Philip.Dialogue.winter_24": "It'll be a new year soon.#$e#Time sure does fly. Was it a good year for you?$h",
 
 //Days of the Week
@@ -6603,8 +6609,8 @@
 "Pika.Dialogue.winter_7": "It's way too cold for me to go out fishing...$s#$e#I'm going to ask Lewis if I can buy some of the fish you all catch.#$b#I want to make a lot of tacos!$h",
 "Pika.Dialogue.winter_14": "I'm going to buy a lot of different spices from the Night Market!$h#$b#Variety is the spice of life.",
 "Pika.Dialogue.winter_15": "This is the only time of year I'm able to catch Midnight Squid.#$b#They're excellent if you fry them!$h",
-"Pika.Dialogue.winter_16": "In Samaowaiian tradition, mermaids are just one type of mo'o, sea goddesses.#$e#Legend has it that if you visit Rainbow Falls in the Fern Islands, you can see the remains of a battle between a demigod and a jealous mo'o at the bottom of the river.$u",
-"Pika.Dialogue.winter_17": "I hope the traveling cart has some Gotoro chillies.#$b#They'll melt your mouth off!$h",
+//"Pika.Dialogue.winter_16": "In Samaowaiian tradition, mermaids are just one type of mo'o, sea goddesses.#$e#Legend has it that if you visit Rainbow Falls in the Fern Islands, you can see the remains of a battle between a demigod and a jealous mo'o at the bottom of the river.$u",
+//"Pika.Dialogue.winter_17": "I hope the traveling cart has some Gotoro chillies.#$b#They'll melt your mouth off!$h",
 "Pika.Dialogue.winter_24": "I'm so happy to have my Keahi with me for the Feast of the Winter Star.$h#$b#If only his mother were here, then we'd be one big happy ohana.$s#$b#Ohana means family and family means nobody gets left behind...$s#$b#...or forgotten...$4",
 
 //Days of the Week
@@ -6696,8 +6702,8 @@
 "Richard.Dialogue.winter_1": "%Richard doesn't seem to notice you.#$b#This season would be so much brighter if you were here, Angelika...$s",
 "Richard.Dialogue.winter_7": "I met my wife the day before the Ice Festival, many many years ago.#$b#I miss her dearly, but I know she's still watching over Ysa and I from a better place.$h",
 "Richard.Dialogue.winter_14": "I'll try to squeeze in some time to browse the merchant's wares tomorrow night.#$b#Or maybe I'll do it the following night?#$b#Hmm... I am not quite sure.",
-"Richard.Dialogue.winter_15": "I've got my eye on a painting Lupini's selling tonight at the market.#$b#It would look fabulous in the lobby!$h",
-"Richard.Dialogue.winter_16": "Be sure to check out the traveling cart when you head to the market!#$b#She'll occasionally have fine Gotoro wares!",
+//"Richard.Dialogue.winter_15": "I've got my eye on a painting Lupini's selling tonight at the market.#$b#It would look fabulous in the lobby!$h",
+//"Richard.Dialogue.winter_16": "Be sure to check out the traveling cart when you head to the market!#$b#She'll occasionally have fine Gotoro wares!",
 "Richard.Dialogue.winter_17": "A word of advice, you might be able to haggle purchases at the market.#$b#Vendors will be hunting for last minute sales, after all.",
 "Richard.Dialogue.winter_24": "“I hope the year has been good to you, young one.$h#$b#Enjoy the remaining days before the new year! Ha ha!$h",
 
@@ -6790,9 +6796,9 @@
 "Shiro.Dialogue.winter_1": "Winter is a weird time for me. On one hand, the ridge and valley look so beautiful.$h#$b#On the other hand, the cold makes it harder for me to get around.$s#$b#But, what is beauty without a little pain, right? Ha.$h",
 "Shiro.Dialogue.winter_7": "I miss fishing. Used to go with my dad often, but...$s@#e#well, let's say it's been a while since our last trip.$u",
 "Shiro.Dialogue.winter_14": "Hey, @! if you're going to the night market tomorrow can you tell me about what's on sale when you get the chance?#$b#I'm curious but I can't go to the beach right now.$6",
-"Shiro.Dialogue.winter_15": "Harvey said I need to keep away from caffeine when possible.$s#$b#I miss getting a cup from the desert trader.$s",
+//"Shiro.Dialogue.winter_15": "Harvey said I need to keep away from caffeine when possible.$s#$b#I miss getting a cup from the desert trader.$s",
 "Shiro.Dialogue.winter_16": "I gave Yuuma some pocket change.#$b#I hope he picks out a new toy, or some art supplies for himself.$h",
-"Shiro.Dialogue.winter_17": "Did you find anything cool at the market?",
+//"Shiro.Dialogue.winter_17": "Did you find anything cool at the market?",
 "Shiro.Dialogue.winter_24": "I'm thankful for so many things... Like Yuuma, and everyone here in the ridge.$h#$b#Everyone has made my life so much better, especially now.$l#$e#How about you, @? I hope you've had a good year.$h",
 
 //Days of the Week
@@ -6893,8 +6899,8 @@
 "Trinnie.Dialogue.winter_7": "I'm gonna make the best snowman tomorrow!$h#$b#No, not a snowman.#$b#I'm gonna make a penguin!$h",
 "Trinnie.Dialogue.winter_14": "I hope there are fun toys tomorrow at the night market!$h",
 "Trinnie.Dialogue.winter_15": "Did you see the pig?#$e#It's swimming!$u",
-"Trinnie.Dialogue.winter_16": "I don't like the boat with the person hiding in the shadows.$s#$e#It's creepy.$u",
-"Trinnie.Dialogue.winter_17": "I wanna be a mermaid someday!$h",
+//"Trinnie.Dialogue.winter_16": "I don't like the boat with the person hiding in the shadows.$s#$e#It's creepy.$u",
+//"Trinnie.Dialogue.winter_17": "I wanna be a mermaid someday!$h",
 "Trinnie.Dialogue.winter_24": "Winter Star!$h#$b#Winter Star!$h#$e#I get presents tomorrow!",
 
 //Days of the Week
@@ -7012,8 +7018,8 @@
 "Ysabelle.Dialogue.winter_1": "Brr! I wonder if the lake freezes over enough for ice skating?#$b#I've never tried it!$6",
 "Ysabelle.Dialogue.winter_7": "The Ice Festival makes me think about The Nutcracker Ballet.$6#$b#I always wanted to be the Sugar Plum Fairy...$7",
 "Ysabelle.Dialogue.winter_14": "Do you know what you'll buy at the market tomorrow?#$e#I'm keeping an eye out for some new silk ribbons!#$b#You just can't buy them online.$a",
-"Ysabelle.Dialogue.winter_15": "I hope someone is selling ribbons.$6#$e#If not I'll have to do without, or plan a trip into the city...$6#$b#No, I'd rather just do without.$s",
-"Ysabelle.Dialogue.winter_16": "The elegance of the mermaids is truly otherworldly.$l#$b#If you haven't seen the show yet, what are you waiting for?",
+//"Ysabelle.Dialogue.winter_15": "I hope someone is selling ribbons.$6#$e#If not I'll have to do without, or plan a trip into the city...$6#$b#No, I'd rather just do without.$s",
+//"Ysabelle.Dialogue.winter_16": "The elegance of the mermaids is truly otherworldly.$l#$b#If you haven't seen the show yet, what are you waiting for?",
 "Ysabelle.Dialogue.winter_17": "Lupini asked if he could paint me.$u#$e#I was surprised at the offer, but I couldn't say no!$l#$b#His rococo style is unparalleled!",
 "Ysabelle.Dialogue.winter_24": "I hope this yuletide season brings you joy as much as the Winter Star treats bring me happiness!$h#$b#Have a wonderful new year, @!$h",
 
@@ -7114,9 +7120,9 @@
 "Yuuma.Dialogue.winter_1": "Winter is hard.$s#$b#But Ms. Lenny helps by bringing wood and food by the house sometimes.#$b#I really like Ms. Lenny.$h",
 "Yuuma.Dialogue.winter_7": "My brother and I used to go fishing a lot near the waterfalls.$h#$b#That was before he went to the army though.$s",
 "Yuuma.Dialogue.winter_14": "I wonder where these merchants come from.#$b#Do you think they come from the other side of the ocean?#$b#That's where mommy and daddy are working.$h",
-"Yuuma.Dialogue.winter_15": "Do you think if I gave them a letter, they'd take it to my mom and dad?$h",
+//"Yuuma.Dialogue.winter_15": "Do you think if I gave them a letter, they'd take it to my mom and dad?$h",
 "Yuuma.Dialogue.winter_16": "I asked the lady with the pig.#$b#She said she'd try to take a letter if it had an address on it, but it might take a long time.$s",
-"Yuuma.Dialogue.winter_17": "I wrote a letter.#$b#I told mom and dad that we're doing okay and I'm doing a good job taking care of Shiro.$h",
+//"Yuuma.Dialogue.winter_17": "I wrote a letter.#$b#I told mom and dad that we're doing okay and I'm doing a good job taking care of Shiro.$h",
 "Yuuma.Dialogue.winter_24": "If you have me as your secret person, please give me something you think Shiro would like.#$b#Why?$u#$b#Oh, no reason. Thank you.$h",
 
 //Days of the Week
@@ -7208,8 +7214,8 @@
 "Alissa.MarriageDialogue.winter_7": "A lot of people are going to get together tomorrow, stick with me okay?$l",
 "Alissa.MarriageDialogue.winter_14": "Can we buy some more farming materials?$I#$b#I have some ideas for the farm that I think will make it even prettier.$h",
 "Alissa.MarriageDialogue.winter_15": "I bought some exotic seeds. I can't wait to plant them next season!$h",
-"Alissa.MarriageDialogue.winter_16": "Auntie saw a microphone for sale.#$b#I was really embarrassed when she told me to test it on the spot.$7",
-"Alissa.MarriageDialogue.winter_17": "I hope you got some interesting items, @! I was able to buy some good stuff.$h",
+//"Alissa.MarriageDialogue.winter_16": "Auntie saw a microphone for sale.#$b#I was really embarrassed when she told me to test it on the spot.$7",
+//"Alissa.MarriageDialogue.winter_17": "I hope you got some interesting items, @! I was able to buy some good stuff.$h",
 "Alissa.MarriageDialogue.winter_24": "I'm quite excited for tomorrow!#$b#Have you got a gift for your secret santa yet?",
 
 ///Room
@@ -7332,8 +7338,8 @@
 "Corine.MarriageDialogue.winter_1": "A season for warm hugs and gift giving is here.#$b#That's me asking for a hug, you dork.$l",
 "Corine.MarriageDialogue.winter_7": "It's cute the way Trinnie and Keahi made snowmen and snow angels.#$b#They're so carefree. Ah, the joy of childhood!$h",
 "Corine.MarriageDialogue.winter_14": "Oooooh, let's watch out for exotic items tomorrow, honey.",
-"Corine.MarriageDialogue.winter_15": "Hey honey! Would you like to check out the shops with me?#$b#We can get some coffee and make our way down the dock.$l",
-"Corine.MarriageDialogue.winter_16": "I wonder if there is anything Jio would like...#$b#Oh! Ha ha, don't worry, @.$h#$b#You know you're my number one.$l",
+//"Corine.MarriageDialogue.winter_15": "Hey honey! Would you like to check out the shops with me?#$b#We can get some coffee and make our way down the dock.$l",
+//"Corine.MarriageDialogue.winter_16": "I wonder if there is anything Jio would like...#$b#Oh! Ha ha, don't worry, @.$h#$b#You know you're my number one.$l",
 "Corine.MarriageDialogue.winter_17": "Brr! I’m freezing.$u#$b#Let's head back and cuddle up together soon, okay?$l",
 "Corine.MarriageDialogue.winter_24": "Thank you for sticking with me throughout the years, honey.$l",
 
@@ -7457,9 +7463,9 @@
 "Flor.MarriageDialogue.winter_1": "Let me know if you need any help this winter, okay?$h#$b# I might have to ask for directions, but I want to help if I can.",
 "Flor.MarriageDialogue.winter_7": "Please be careful out on the ice tomorrow. $s#$b#I was reading about neurological reactions to extreme environment changes,#$b# and the article included what happens in the brain and body when someone falls through ice into frigid water.$s#$b# It was... well, it was scary.$s",
 "Flor.MarriageDialogue.winter_14": "Do you think the rare book vendor will be with the merchants this year? #$b#I've been trying to track down an old philosophy book someone in my graduate program recommended years ago on epistemic injustice, but it's impossible to find!$h",
-"Flor.MarriageDialogue.winter_15": "%Flor acknowledges you with a smile, and then goes back to watching everything at the market with wide eyes.",
-"Flor.MarriageDialogue.winter_16": "%Flor acknowledges you with a smile, and then goes back to watching everything at the market with wide eyes.",
-"Flor.MarriageDialogue.winter_17": "I love the art vendor here!$h#$b# What do you think about the painting he's selling tonight?",
+//"Flor.MarriageDialogue.winter_15": "%Flor acknowledges you with a smile, and then goes back to watching everything at the market with wide eyes.",
+//"Flor.MarriageDialogue.winter_16": "I love the art vendor here!$h#$b# What do you think about the painting he's selling tonight?",
+"Flor.MarriageDialogue.winter_17": "%Flor acknowledges you with a smile, and then goes back to watching everything at the market with wide eyes.",
 "Flor.MarriageDialogue.winter_24": "Can we place a wreath on our door?$h#$b# I read about how evergreen boughs and holly represent eternal life...#$b#But that's not why I want to put one up. I just think they're pretty.$h",
 
 ///Room
@@ -7582,8 +7588,8 @@
 "Ian.MarriageDialogue.winter_1": "Shovelling snow has been a big part of my life.#$b#But did you know, I almost died of hi- uhm... Hy-- uhh... hypodermica?#$b#Hypothermia...$s#$b#I think?#$b#When you get too cold?#$b#I just remember being cold and falling asleep on the sidewalk.$u#$b#I used to wonder sometimes if I should have just...$s#$b#not woken up...$s#$b#But I'm really glad I did, because I have you now.$l",
 "Ian.MarriageDialogue.winter_7": "@!#$b#Want to make snow angels and snowmen tomorrow?$h#$b#Huh, fishing?#$b#Uhm... well of course I know how to fish... That's one of the essentials to learn especially if you grew up poor.$h#$b#I just don't like to show it off, I guess.",
 "Ian.MarriageDialogue.winter_14": "%Ian looks exhausted.#$b#The whole idea of tomorrow's market is just so tiring.$s#$b#I'm looking forward to coming home and passing out tomorrow morning.",
-"Ian.MarriageDialogue.winter_15": "Mermaid show?#$b#No, I'm not really interested.#$b#You're magic enough for me.$l",
-"Ian.MarriageDialogue.winter_16": "It would be fun to put up some decorations around the farm.#$b#I think I've got some pocket change -- enough for a couple of candy canes!$h",
+//"Ian.MarriageDialogue.winter_15": "Mermaid show?#$b#No, I'm not really interested.#$b#You're magic enough for me.$l",
+//"Ian.MarriageDialogue.winter_16": "It would be fun to put up some decorations around the farm.#$b#I think I've got some pocket change -- enough for a couple of candy canes!$h",
 "Ian.MarriageDialogue.winter_17": "I'm not looking forward to the cleanup tonight.#$b#But, a job's a job!#$b#I'll try and finish up as soon as possible.#$b#If it's okay, I'd like some extra cuddles when I get home.$l",
 "Ian.MarriageDialogue.winter_24": "I've always loved decorating the tree.$h#$b#It makes me feel giddy inside.$h",
 
@@ -7707,8 +7713,8 @@
 "Jeric.MarriageDialogue.winter_1": "It's winter, once again.#$e#Looks like we'll be stuck indoors for the next few weeks.$6$#b#Alone. Just the two of us.$6#$b#We're gonna have such a good time this winter, aren't we?$l",
 "Jeric.MarriageDialogue.winter_7": "I'm ready for tomorrow's event!$h#$e#I've been practicing since last year, I was so bad last year that I nearly fell into the water!$u#$b#Good thing I have great reflexes.$6",
 "Jeric.MarriageDialogue.winter_14": "Let's go visit the merchants together!$h#$b#I'll buy you anything you want from the market.$l",
-"Jeric.MarriageDialogue.winter_15": "Oh! Right in time for our date, babe.$h#$b#Should we take a submarine trip together?$l",
-"Jeric.MarriageDialogue.winter_16": "Have you watched the mermaid show?#$e#It's breathtaking.$h#$b#But not as breathtaking as you!$l",
+//"Jeric.MarriageDialogue.winter_15": "Oh! Right in time for our date, babe.$h#$b#Should we take a submarine trip together?$l",
+//"Jeric.MarriageDialogue.winter_16": "Have you watched the mermaid show?#$e#It's breathtaking.$h#$b#But not as breathtaking as you!$l",
 "Jeric.MarriageDialogue.winter_17": "I bought some furniture tonight.#$b#Don't worry babe, we both know I have excellent taste and our house could use a little redecoration.$7",
 "Jeric.MarriageDialogue.winter_24": "This year was one of the best I've ever had!$h#$e#I have the best spouse ever and our crops have been ripe and blooming this year!$h#$b#Let's hope next year is even better.$h",
 
@@ -7834,8 +7840,8 @@
 "Kenneth.MarriageDialogue.winter_7": "The festival tomorrow reminds me of when I was a kid going to the festival. One year I made an automatic fishing rod modification, so that whenever it got a tug on the line it'd automatically real in the fish for me.#$b#Well, I miscalculated the power of it, and the first fish I got went flying...$u#$b#I swear it went halfway to the ridge! Ha ha. Needless to say I haven't competed since then.$h",
 "Kenneth.MarriageDialogue.winter_14": "I hear that there's going to be some stuffed animals that are going to be sold at the market tomorrow.#$b#I wonder if they have one that looks like my dog. ...I miss him.$s",
 "Kenneth.MarriageDialogue.winter_15": "I don't know about the stability of the docks with all those boats attached and everyone walking around... makes me a bit nervous.#$b#You be careful, okay, @?",
-"Kenneth.MarriageDialogue.winter_16": "I snuck down to the pier earlier and checked it out. I added a couple braces to the pier supports. Willy saw me and asked what I was doing; I told him I was just trying to make sure everyone was safe.#$b#He laughed and just walked back to his house talking to himself. Well, hey, at least everyone will be safe!",
-"Kenneth.MarriageDialogue.winter_17": "Keahi gave me a little stuffed dog. He said he got it from one of the boat vendors and thought I'd like it.#$b#I don't know where he heard about my dog from, but... it really means a lot to me.$h#$b#I'm a real happy guy, @.",
+//"Kenneth.MarriageDialogue.winter_16": "I snuck down to the pier earlier and checked it out. I added a couple braces to the pier supports. Willy saw me and asked what I was doing; I told him I was just trying to make sure everyone was safe.#$b#He laughed and just walked back to his house talking to himself. Well, hey, at least everyone will be safe!",
+//"Kenneth.MarriageDialogue.winter_17": "Keahi gave me a little stuffed dog. He said he got it from one of the boat vendors and thought I'd like it.#$b#I don't know where he heard about my dog from, but... it really means a lot to me.$h#$b#I'm a real happy guy, @.",
 "Kenneth.MarriageDialogue.winter_24": "Maru and I have been working overtime to make sure the festival goes off without a hitch tomorrow.#$b#We used a new generator to get some extra juice for the tree and all the lights. On the one hand, it could all go off smoothly! But on the other... well, just stay away from the tree just in case, okay?#$b#I'm sure it'll be fine, but... ha ha, well, you know.$h",
 
 ///Room
@@ -7957,9 +7963,9 @@
 "Maddie.MarriageDialogue.winter_1": "I wish I was a bear, just able to hibernate through the whole winter.$7#$e#I wish you were there with me.$s#$b#Oh well, we both have work to do.$6",
 "Maddie.MarriageDialogue.winter_7": "I still think don't fishing is ethical, but I'll cheer you on if you insist on competing.$6#$b#To be honest, I'd much rather build a snowgoon than go fishing.$6",
 "Maddie.MarriageDialogue.winter_14": "I hope I find some cute trinkets at the night market!#$b#It's always a mystery what they're going to sell.$7",
-"Maddie.MarriageDialogue.winter_15": "Honey, look at this one! I think I might buy it, I bet it'd look good on the counter.$h",
-"Maddie.MarriageDialogue.winter_16": "I think I'll look around tomorrow and see what I can find that's perfect for our home babe.$6",
-"Maddie.MarriageDialogue.winter_17": "I actually don't mind the amount of people here right now#$b#Hmm... Must be a 'you' thing huh?$h",
+//"Maddie.MarriageDialogue.winter_15": "Honey, look at this one! I think I might buy it, I bet it'd look good on the counter.$h",
+"Maddie.MarriageDialogue.winter_16": "I actually don't mind the amount of people here right now#$b#Hmm... Must be a 'you' thing huh?$h", 
+//"Maddie.MarriageDialogue.winter_17": "I think I'll look around tomorrow and see what I can find that's perfect for our home babe.$6",
 "Maddie.MarriageDialogue.winter_24": "Tomorrow I'm gonna dine like a queen.$h#$b#Gus tries to up his game every year, so who knows what he has in store for us!#h",
 
 ///Room
@@ -8082,9 +8088,9 @@
 "Philip.MarriageDialogue.winter_1": "Did you do that thing when you were a kid where you'd breathe out in cold weather like this and pretend the fog was smoke?#$b#I used to pretend I was a dragon when I was really little.$h",
 "Philip.MarriageDialogue.winter_7": "I'm really glad they release the fish they catch during the festival instead of making everyone eat all of it.$h",
 "Philip.MarriageDialogue.winter_14": "I don't really need anything, but I'm still excited for the Night Market to be here.$h",
-"Philip.MarriageDialogue.winter_15": "I know it sounds silly, but hear me out:#$b#Candy cane lawn ornaments.$h",
+//"Philip.MarriageDialogue.winter_15": "I know it sounds silly, but hear me out:#$b#Candy cane lawn ornaments.$h",
 "Philip.MarriageDialogue.winter_16": "Oh my Yoba.$u#$b#They have the first four issues of the Night Empress reboot!$h#$b#Where do they find this stuff?",
-"Philip.MarriageDialogue.winter_17": "Did you get a cup of coffee yet?#$b#I know caffeine will keep me up, but it's so good.$h",
+//"Philip.MarriageDialogue.winter_17": "Did you get a cup of coffee yet?#$b#I know caffeine will keep me up, but it's so good.$h",
 "Philip.MarriageDialogue.winter_24": "Happy Feast of the Winter Star, @.$h#$b#%Philip looks oddly nervous.#$b#Look, I know this is cheesy, but...#$b#Here.[688]#$b#So you always come back to me.$h",
 
 ///Room
@@ -8206,9 +8212,9 @@
 "Shiro.MarriageDialogue.winter_1": "Oh man, winter again. So cold...$6#$b#But at least I have you to keep me warm now!$l",
 "Shiro.MarriageDialogue.winter_7": "Hey, @, would you like to spend time with me at the festival tomorrow?$l#$e#Maybe make some snowmen, drink some hot chocolate, share a kiss in an igloo...$l#$b#Ahh, I'm kidding. ...but maybe...?$l",
 "Shiro.MarriageDialogue.winter_14": "I'm so excited for the night market tomorrow! Hopefully we can find some really good deals.$h#$b#You can have my free coffee.$l",
-"Shiro.MarriageDialogue.winter_15": "I can't decide if I like the painting that artist is selling or not.",
+//"Shiro.MarriageDialogue.winter_15": "I can't decide if I like the painting that artist is selling or not.",
 "Shiro.MarriageDialogue.winter_16": "Is it just me, or do we see the woman with the purple cart everywhere?",
-"Shiro.MarriageDialogue.winter_17": "I think I want to try the deep sea fishing...$s#$b#Next year, though.",
+//"Shiro.MarriageDialogue.winter_17": "I think I want to try the deep sea fishing...$s#$b#Next year, though.",
 "Shiro.MarriageDialogue.winter_24": "Well, @, another year has almost come and gone. You have no idea how much it means to me to have you here with me for it.$l#$b#Here's to another great one together, one day at a time...$h",
 
 ///Room
@@ -8330,8 +8336,8 @@
 "Ysabelle.MarriageDialogue.winter_1": "Love! Let's make snow angels in the backyard.$h#$b#Call it a fit of nostalgia, hmm?$l",
 "Ysabelle.MarriageDialogue.winter_7": "Ahhh, the festival tomorrow brings back a lot of memories for me.$6",
 "Ysabelle.MarriageDialogue.winter_14": "Lola told me earlier that they might be selling some exotic baby clothes at the night market tomorrow.$u#$e#I'm thinking about buying some... I mean, for when we decide to have children.$l#$b#If we have children. I'm not opposed to dressing up a puppy if needs must.$h",
-"Ysabelle.MarriageDialogue.winter_15": "I bought some Gotoran chocolates.#$b#Maybe we can try them for dessert tomorrow night.$h",
-"Ysabelle.MarriageDialogue.winter_16": "Silk ribbons! Finally!$h",
+//"Ysabelle.MarriageDialogue.winter_15": "I bought some Gotoran chocolates.#$b#Maybe we can try them for dessert tomorrow night.$h",
+//"Ysabelle.MarriageDialogue.winter_16": "Silk ribbons! Finally!$h",
 "Ysabelle.MarriageDialogue.winter_17": "The entire market is like an exercise in exotic romanticism... and I adore it.$l",
 "Ysabelle.MarriageDialogue.winter_24": "You're the greatest lucky charm of all, and I'm happy I get to end the year beside you.$l#$b#You make everything so much better, love.$h",
 

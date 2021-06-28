@@ -526,7 +526,7 @@
 	"Trigger": "Custom_Ridgeside_MysticFalls3",
 	},
 	
-	//Minecarft Restoration
+/*	//Minecarft Restoration
 	  //Wood x 200
 	{
     "Name": "lenny_minecart1", 
@@ -567,7 +567,7 @@
 	"ConversationTopic": {
 		"AddWhenQuestCompleted": "RSV_startminecartfix 10"
 		}
-    },
+    },*/
   ],
 
  
@@ -898,7 +898,7 @@
 		}
 	},
 	
-//Unlock Minecarft Offer
+/*//Unlock Minecarft Offer
 	{
       "QuestName": "lenny_minecart1",
       "OfferedBy": "Mail",
@@ -911,7 +911,7 @@
 		"QuestNeverCompleted": "yes",
 		"QuestNeverAccepted": "yes"
       }
-    },
+    },*/
   ],
   
   

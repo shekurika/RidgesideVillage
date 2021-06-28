@@ -14,6 +14,10 @@
 		
 		//Ian waits for letter (Ian 6 hearts)
 			"75160148/f Ian 1500/t 1200 1600": "echos/11 8/farmer 14 11 0 Ian 11 9 0 Lenny 11 6 3/skippable/pause 500/emote farmer 8/emote Ian 28/speak Ian \"{{i18n:event-75160148.01}}\"/emote Lenny 40/speak Lenny \"{{i18n:event-75160148.02}}\"/faceDirection Lenny 2/speak Lenny \"{{i18n:event-75160148.03}}\"/speak Ian \"{{i18n:event-75160148.04}}\"/emote Lenny 28/speak Lenny \"{{i18n:event-75160148.05}}\"/speak Ian \"{{i18n:event-75160148.06}}\"/faceDirection Ian 2/pause 2000/speak Ian \"{{i18n:event-75160148.07}}\"/speed Ian 3/move Ian 0 3 1/faceDirection farmer 3/speak Lenny \"{{i18n:event-75160148.08}}\"/speed Ian 3/move Ian 2 0 1/speak Ian \"{{i18n:event-75160148.09}}\"/faceDirection farmer 2/move Ian 1 0 2/warp Ian -100 -100/playSound doorClose/emote Lenny 28/faceDirection farmer 0/emote farmer 8/speak Lenny \"{{i18n:event-75160148.10}}\"/emote farmer 8/pause 500/speak Lenny \"{{i18n:event-75160148.11}}\"/emote farmer 40/move farmer 0 1 2/warp farmer -101 -100/playSound doorClose/faceDirection Lenny 3/speak Lenny \"{{i18n:event-75160148.12}}\"/globalFade/viewport -1000 -1000/message \"{{i18n:event-75160148.13}}\"/changeToTemporaryMap Custom_Ridgeside_Ridge false/warp Lenny -102 -100/warp Ian 18 22/showFrame Ian 16/warp farmer 19 19/faceDirection farmer 2/fade/viewport 18 22/pause 500/emote Ian 40/move farmer 0 2 2/speak Ian \"{{i18n:event-75160148.14}}\"/move farmer 0 1 2/pause 2000/emote Ian 28/speak Ian \"{{i18n:event-75160148.15}}\"/faceDirection farmer 3/message \"{{i18n:event-75160148.16}}\"/playMusic cm:IanTheme/pause 5000/speak Ian \"{{i18n:event-75160148.17}}\"/emote farmer 40/faceDirection Ian 2/pause 2000/move Ian -1 0 3/message \"{{i18n:event-75160148.18}}\"/speak Ian \"{{i18n:event-75160148.19}}\"/emote farmer 40/speak Ian \"$q 75160148 null \"#{{i18n:event-75160148.20}}#$r 75160147 0 ian2_1#{{i18n:event-75160148.21}}#$r 75160148 0 ian2_2#{{i18n:event-75160148.22}}#$r 75160148 0 ian2_3#{{i18n:event-75160148.23}}\"/pause 1000/emote Ian 40/faceDirection Ian 1/speak Ian \"{{i18n:event-75160148.24}}\"/move farmer -1 0 3/message \"{{i18n:event-75160148.25}}\"/emote farmer 32/emote Ian 28/speak Ian \"{{i18n:event-75160148.26}}\"/emote farmer 32/faceDirection Ian 2/speak Ian \"{{i18n:event-75160148.27}}\"/pause 2000/end dialogue Ian \"{{i18n:event-75160148.28}}\"",
+
+		//Lenny gets the money for minecart
+			"75160191/H/m 150000/k 75160190/e 75160189": "playful/11 8/farmer 11 10 0 Lenny 11 6 3/skippable/pause 800/move farmer 0 -2 0/emote Lenny 8/faceDirection Lenny 2/emote Lenny 32/pause 500/speak Lenny \"{{i18n:event-75160191.01}}\"/emote farmer 56/speak Lenny \"{{i18n:event-75160191.02}}\"/emote farmer 32/move farmer 0 -1 3/faceDirection Lenny 3/pause 500/emote farmer 56/pause 500/emote Lenny 32/speak Lenny \"{{i18n:event-75160191.03}}\"/emote farmer 56/pause 1000/end dialogue Lenny \"{{i18n:event-75160191.04}}\"",
+
 		},
 	},
 
@@ -27,6 +31,8 @@
                         "ian2_3": "{{i18n:event-75160148.Fork3}}",
                 }
         },
+
+
 	
 ]
 }
