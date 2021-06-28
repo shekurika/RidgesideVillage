@@ -351,7 +351,7 @@
 	{
    "Action": "EditData",
    "Target": "Data/Festivals/summer11",
-   "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasSeeneEvent": "6665292"},
+   "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasSeenEvent": "6665292"},
    "TextOperations": [
    
    //SetUp
