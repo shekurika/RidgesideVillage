@@ -34,7 +34,7 @@
 		"Action": "EditMap",
 		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
 		"FromFile": "Assets/Maps/EventMaps/RSVTheRide.tmx",
-		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
+		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 0600, 1900}}" },
 		"Update": "OnLocationChange"
@@ -43,7 +43,7 @@
 		"Action": "EditMap",
 		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
 		"FromFile": "Assets/Maps/DynamicMaps/RSVTheRideNight.tmx",
-		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
+		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
 		"PatchMode": "Overlay",
 		"When": { "Time": "{{Range: 1900, 2600}}" },
 		"Update": "OnLocationChange"
