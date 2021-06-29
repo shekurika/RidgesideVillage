@@ -16,7 +16,7 @@
 			"Tue": "GOTO Sun",
 			"Thu": "GOTO rain",
 			"Fri": "GOTO Sun",
-			"winter_15": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 68 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 22 67 3 kenneth_fixleft/1400 Beach 23 20 2/2200 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
+			"winter_15": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 68 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 22 67 3 kenneth_fixleft/1400 Beach 23 20 2/2600 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
 			
 			//Marriage Schedule
 			"marriage_Mon": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 68 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 22 67 3 kenneth_fixleft/1200 Custom_Ridgeside_RidgesideVillage 80 38 3/1400 Custom_Ridgeside_RidgesideVillage 89 38 1/2200 BusStop -1 23 3",
