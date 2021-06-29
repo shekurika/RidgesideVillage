@@ -534,6 +534,1386 @@
 
 
   ],
+
+    "festivalSpots":
+	[
+	
+	//Egg Festival
+		{
+			"name": "Aguar",
+			"map": "Town-EggFestival",
+			"position": [38, 84],
+			"direction": 0
+		},
+		{
+			"name": "Alissa",
+			"map": "Town-EggFestival",
+			"position": [29, 55],
+			"direction": 3
+		},
+		{
+			"name": "Bert",
+			"map": "Town-EggFestival",
+			"position": [27, 54],
+			"direction": 2
+		},
+		{
+			"name": "Corine",
+			"map": "Town-EggFestival",
+			"position": [34, 79],
+			"direction": 3
+		},
+		{
+			"name": "Ezekiel",
+			"map": "Town-EggFestival",
+			"position": [36, 71],
+			"direction": 3
+		},
+		{
+			"name": "Flor",
+			"map": "Town-EggFestival",
+			"position": [26, 57],
+			"direction": 2
+		},
+		{
+			"name": "Freddie",
+			"map": "Town-EggFestival",
+			"position": [33, 72],
+			"direction": 0
+		},
+		{
+			"name": "Ian",
+			"map": "Town-EggFestival",
+			"position": [17, 52],
+			"direction": 2
+		},
+		{
+			"name": "Jeric",
+			"map": "Town-EggFestival",
+			"position": [32, 76],
+			"direction": 2
+		},
+		{
+			"name": "Jio",
+			"map": "Town-EggFestival",
+			"position": [94, 45],
+			"direction": 2
+		},
+		{
+			"name": "Keahi",
+			"map": "Town-EggFestival",
+			"position": [12, 59],
+			"direction": 3
+		},
+		{
+			"name": "Kenneth",
+			"map": "Town-EggFestival",
+			"position": [20, 74],
+			"direction": 1
+		},
+		{
+			"name": "Kiwi",
+			"map": "Town-EggFestival",
+			"position": [95, 45],
+			"direction": 2
+		},
+		{
+			"name": "Lenny",
+			"map": "Town-EggFestival",
+			"position": [24, 69],
+			"direction": 1
+		},
+		{
+			"name": "Lola",
+			"map": "Town-EggFestival",
+			"position": [32, 72],
+			"direction": 0
+		},
+		{
+			"name": "Maddie",
+			"map": "Town-EggFestival",
+			"position": [31, 78],
+			"direction": 1
+		},
+		{
+			"name": "Olga",
+			"map": "Town-EggFestival",
+			"position": [26, 54],
+			"direction": 2
+		},
+		{
+			"name": "Philip",
+			"map": "Town-EggFestival",
+			"position": [18, 78],
+			"direction": 1
+		},
+		{
+			"name": "Pika",
+			"map": "Town-EggFestival",
+			"position": [30, 57],
+			"direction": 2
+		},
+		{
+			"name": "Richard",
+			"map": "Town-EggFestival",
+			"position": [31, 74],
+			"direction": 0
+		},
+		{
+			"name": "Shiro",
+			"map": "Town-EggFestival",
+			"position": [19, 79],
+			"direction": 0
+		},
+		{
+			"name": "Trinnie",
+			"map": "Town-EggFestival",
+			"position": [10, 59],
+			"direction": 1
+		},
+		{
+			"name": "Ysabelle",
+			"map": "Town-EggFestival",
+			"position": [32, 79],
+			"direction": 1
+		},
+		{
+			"name": "Yuuma",
+			"map": "Town-EggFestival",
+			"position": [20, 79],
+			"direction": 0
+		},
+
+	//Flower Dance
+		{
+			"name": "Aguar",
+			"map": "Forest-FlowerFestival",
+			"position": [44, 41],
+			"direction": 2
+		},
+		{
+			"name": "Alissa",
+			"map": "Forest-FlowerFestival",
+			"position": [27, 20],
+			"direction": 1
+		},
+		{
+			"name": "Bert",
+			"map": "Forest-FlowerFestival",
+			"position": [30, 22],
+			"direction": 2
+		},
+		{
+			"name": "Corine",
+			"map": "Forest-FlowerFestival",
+			"position": [37, 25],
+			"direction": 1
+		},
+		{
+			"name": "Ezekiel",
+			"map": "Forest-FlowerFestival",
+			"position": [31, 28],
+			"direction": 2
+		},
+		{
+			"name": "Flor",
+			"map": "Forest-FlowerFestival",
+			"position": [34, 30],
+			"direction": 3
+		},
+		{
+			"name": "Freddie",
+			"map": "Forest-FlowerFestival",
+			"position": [36, 28],
+			"direction": 2
+		},
+		{
+			"name": "Ian",
+			"map": "Forest-FlowerFestival",
+			"position": [31, 33],
+			"direction": 2
+		},
+		{
+			"name": "Jeric",
+			"map": "Forest-FlowerFestival",
+			"position": [38, 23],
+			"direction": 2
+		},
+		{
+			"name": "Keahi",
+			"map": "Forest-FlowerFestival",
+			"position": [31, 24],
+			"direction": 3
+		},
+		{
+			"name": "Kenneth",
+			"map": "Forest-FlowerFestival",
+			"position": [41, 20],
+			"direction": 2
+		},
+		{
+			"name": "Lenny",
+			"map": "Forest-FlowerFestival",
+			"position": [6, 21],
+			"direction": 2
+		},
+		{
+			"name": "Lola",
+			"map": "Forest-FlowerFestival",
+			"position": [37, 28],
+			"direction": 3
+		},
+		{
+			"name": "Maddie",
+			"map": "Forest-FlowerFestival",
+			"position": [38, 33],
+			"direction": 0
+		},
+		{
+			"name": "Olga",
+			"map": "Forest-FlowerFestival",
+			"position": [29, 20],
+			"direction": 3
+		},
+		{
+			"name": "Philip",
+			"map": "Forest-FlowerFestival",
+			"position": [42, 21],
+			"direction": 3
+		},
+		{
+			"name": "Pika",
+			"map": "Forest-FlowerFestival",
+			"position": [33, 28],
+			"direction": 2
+		},
+		{
+			"name": "Richard",
+			"map": "Forest-FlowerFestival",
+			"position": [36, 21],
+			"direction": 2
+		},
+		{
+			"name": "Shiro",
+			"map": "Forest-FlowerFestival",
+			"position": [34, 26],
+			"direction": 3
+		},
+		{
+			"name": "Trinnie",
+			"map": "Forest-FlowerFestival",
+			"position": [29, 24],
+			"direction": 1
+		},
+		{
+			"name": "Ysabelle",
+			"map": "Forest-FlowerFestival",
+			"position": [39, 25],
+			"direction": 3
+		},
+		{
+			"name": "Yuuma",
+			"map": "Forest-FlowerFestival",
+			"position": [33, 25],
+			"direction": 2
+		},
+		
+	//Luau
+		{
+			"name": "Aguar",
+			"map": "Beach-Luau",
+			"position": [14, 39],
+			"direction": 2
+		},
+		{
+			"name": "Alissa",
+			"map": "Beach-Luau",
+			"position": [25, 13],
+			"direction": 3
+		},
+		{
+			"name": "Bert",
+			"map": "Beach-Luau",
+			"position": [23, 9],
+			"direction": 1
+		},
+		{
+			"name": "Corine",
+			"map": "Beach-Luau",
+			"position": [18, 17],
+			"direction": 1
+		},
+		{
+			"name": "Ezekiel",
+			"map": "Beach-Luau",
+			"position": [52, 18],
+			"direction": 3
+		},
+		{
+			"name": "Flor",
+			"map": "Beach-Luau",
+			"position": [30, 17],
+			"direction": 1
+		},
+		{
+			"name": "Freddie",
+			"map": "Beach-Luau",
+			"position": [19, 12],
+			"direction": 1
+		},
+		{
+			"name": "Ian",
+			"map": "Beach-Luau",
+			"position": [35, 36],
+			"direction": 2
+		},
+		{
+			"name": "Jeric",
+			"map": "Beach-Luau",
+			"position": [25, 18],
+			"direction": 1
+		},
+		{
+			"name": "Keahi",
+			"map": "Beach-Luau",
+			"position": [13, 8],
+			"direction": 2
+		},
+		{
+			"name": "Kenneth",
+			"map": "Beach-Luau",
+			"position": [23, 7],
+			"direction": 3
+		},
+		{
+			"name": "Lenny",
+			"map": "Beach-Luau",
+			"position": [34, 4],
+			"direction": 2
+		},
+		{
+			"name": "Lola",
+			"map": "Beach-Luau",
+			"position": [20, 12],
+			"direction": 3
+		},
+		{
+			"name": "Maddie",
+			"map": "Beach-Luau",
+			"position": [32, 19],
+			"direction": 0
+		},
+		{
+			"name": "Olga",
+			"map": "Beach-Luau",
+			"position": [24, 9],
+			"direction": 3
+		},
+		{
+			"name": "Philip",
+			"map": "Beach-Luau",
+			"position": [14, 16],
+			"direction": 2
+		},
+		{
+			"name": "Pika",
+			"map": "Beach-Luau",
+			"position": [53, 19],
+			"direction": 3
+		},
+		{
+			"name": "Richard",
+			"map": "Beach-Luau",
+			"position": [31, 4],
+			"direction": 2
+		},
+		{
+			"name": "Shiro",
+			"map": "Beach-Luau",
+			"position": [11, 20],
+			"direction": 3
+		},
+		{
+			"name": "Trinnie",
+			"map": "Beach-Luau",
+			"position": [13, 10],
+			"direction": 0
+		},
+		{
+			"name": "Ysabelle",
+			"map": "Beach-Luau",
+			"position": [19, 16],
+			"direction": 2
+		},
+		{
+			"name": "Yuuma",
+			"map": "Beach-Luau",
+			"position": [11, 21],
+			"direction": 3
+		},
+		
+	//Jellies
+		{
+			"name": "Aguar",
+			"map": "Beach-Jellies",
+			"position": [87, 8],
+			"direction": 2
+		},
+		{
+			"name": "Alissa",
+			"map": "Beach-Jellies",
+			"position": [88, 34],
+			"direction": 1
+		},
+		{
+			"name": "Bert",
+			"map": "Beach-Jellies",
+			"position": [44, 24],
+			"direction": 2
+		},
+		{
+			"name": "Corine",
+			"map": "Beach-Jellies",
+			"position": [38, 24],
+			"direction": 2
+		},
+		{
+			"name": "Ezekiel",
+			"map": "Beach-Jellies",
+			"position": [37, 24],
+			"direction": 2
+		},
+		{
+			"name": "Flor",
+			"map": "Beach-Jellies",
+			"position": [39, 33],
+			"direction": 2
+		},
+		{
+			"name": "Freddie",
+			"map": "Beach-Jellies",
+			"position": [6, 6],
+			"direction": 2
+		},
+		{
+			"name": "Ian",
+			"map": "Beach-Jellies",
+			"position": [24, 29],
+			"direction": 3
+		},
+		{
+			"name": "Jeric",
+			"map": "Beach-Jellies",
+			"position": [63, 21],
+			"direction": 2
+		},
+		{
+			"name": "Keahi",
+			"map": "Beach-Jellies",
+			"position": [80, 24],
+			"direction": 2
+		},
+		{
+			"name": "Kenneth",
+			"map": "Beach-Jellies",
+			"position": [86, 30],
+			"direction": 3
+		},
+		{
+			"name": "Lenny",
+			"map": "Beach-Jellies",
+			"position": [9, 13],
+			"direction": 3
+		},
+		{
+			"name": "Lola",
+			"map": "Beach-Jellies",
+			"position": [7, 6],
+			"direction": 2
+		},
+		{
+			"name": "Maddie",
+			"map": "Beach-Jellies",
+			"position": [56, 18],
+			"direction": 2
+		},
+		{
+			"name": "Olga",
+			"map": "Beach-Jellies",
+			"position": [43, 24],
+			"direction": 2
+		},
+		{
+			"name": "Philip",
+			"map": "Beach-Jellies",
+			"position": [68, 24],
+			"direction": 2
+		},
+		{
+			"name": "Pika",
+			"map": "Beach-Jellies",
+			"position": [9, 11],
+			"direction": 3
+		},
+		{
+			"name": "Richard",
+			"map": "Beach-Jellies",
+			"position": [90, 21],
+			"direction": 2
+		},
+		{
+			"name": "Shiro",
+			"map": "Beach-Jellies",
+			"position": [66, 22],
+			"direction": 2
+		},
+		{
+			"name": "Trinnie",
+			"map": "Beach-Jellies",
+			"position": [81, 24],
+			"direction": 2
+		},
+		{
+			"name": "Ysabelle",
+			"map": "Beach-Jellies",
+			"position": [91, 21],
+			"direction": 2
+		},
+		{
+			"name": "Yuuma",
+			"map": "Beach-Jellies",
+			"position": [65, 22],
+			"direction": 2
+		},
+		
+	//SV Fair
+		{
+			"name": "Aguar",
+			"map": "Town-Fair",
+			"position": [47, 101],
+			"direction": 2
+		},
+		{
+			"name": "Alissa",
+			"map": "Town-Fair",
+			"position": [32, 66],
+			"direction": 1
+		},
+		{
+			"name": "Bert",
+			"map": "Town-Fair",
+			"position": [14, 53],
+			"direction": 0
+		},
+		{
+			"name": "Corine",
+			"map": "Town-Fair",
+			"position": [18, 65],
+			"direction": 1
+		},
+		{
+			"name": "Ezekiel",
+			"map": "Town-Fair",
+			"position": [24, 56],
+			"direction": 1
+		},
+		{
+			"name": "Flor",
+			"map": "Town-Fair",
+			"position": [27, 76],
+			"direction": 3
+		},
+		{
+			"name": "Freddie",
+			"map": "Town-Fair",
+			"position": [20, 27],
+			"direction": 2
+		},
+		{
+			"name": "Ian",
+			"map": "Town-Fair",
+			"position": [17, 73],
+			"direction": 2
+		},
+		{
+			"name": "Jeric",
+			"map": "Town-Fair",
+			"position": [11, 64],
+			"direction": 3
+		},
+		{
+			"name": "Keahi",
+			"map": "Town-Fair",
+			"position": [36, 78],
+			"direction": 0
+		},
+		{
+			"name": "Kenneth",
+			"map": "Town-Fair",
+			"position": [22, 49],
+			"direction": 0
+		},
+		{
+			"name": "Lenny",
+			"map": "Town-Fair",
+			"position": [27, 53],
+			"direction": 2
+		},
+		{
+			"name": "Lola",
+			"map": "Town-Fair",
+			"position": [21, 27],
+			"direction": 2
+		},
+		{
+			"name": "Maddie",
+			"map": "Town-Fair",
+			"position": [24, 29],
+			"direction": 0
+		},
+		{
+			"name": "Olga",
+			"map": "Town-Fair",
+			"position": [27, 61],
+			"direction": 1
+		},
+		{
+			"name": "Philip",
+			"map": "Town-Fair",
+			"position": [22, 65],
+			"direction": 0
+		},
+		{
+			"name": "Pika",
+			"map": "Town-Fair",
+			"position": [25, 23],
+			"direction": 0
+		},
+		{
+			"name": "Richard",
+			"map": "Town-Fair",
+			"position": [23, 53],
+			"direction": 2
+		},
+		{
+			"name": "Shiro",
+			"map": "Town-Fair",
+			"position": [23, 65],
+			"direction": 0
+		},
+		{
+			"name": "Trinnie",
+			"map": "Town-Fair",
+			"position": [15, 53],
+			"direction": 0
+		},
+		{
+			"name": "Ysabelle",
+			"map": "Town-Fair",
+			"position": [19, 64],
+			"direction": 2
+		},
+		{
+			"name": "Yuuma",
+			"map": "Town-Fair",
+			"position": [34, 77],
+			"direction": 1
+		},
+		
+	//Spirit Eve
+		{
+			"name": "Aguar",
+			"map": "Town-Halloween",
+			"position": [22, 100],
+			"direction": 2
+		},
+		{
+			"name": "Alissa",
+			"map": "Town-Halloween",
+			"position": [15, 27],
+			"direction": 3
+		},
+		{
+			"name": "Bert",
+			"map": "Town-Halloween",
+			"position": [23, 64],
+			"direction": 2
+		},
+		{
+			"name": "Corine",
+			"map": "Town-Halloween",
+			"position": [33, 73],
+			"direction": 0
+		},
+		{
+			"name": "Ezekiel",
+			"map": "Town-Halloween",
+			"position": [34, 75],
+			"direction": 0
+		},
+		{
+			"name": "Flor",
+			"map": "Town-Halloween",
+			"position": [34, 38],
+			"direction": 0
+		},
+		{
+			"name": "Freddie",
+			"map": "Town-Halloween",
+			"position": [16, 64],
+			"direction": 2
+		},
+		{
+			"name": "Ian",
+			"map": "Town-Halloween",
+			"position": [32, 56],
+			"direction": 2
+		},
+		{
+			"name": "Jeric",
+			"map": "Town-Halloween",
+			"position": [31, 64],
+			"direction": 1
+		},
+		{
+			"name": "Keahi",
+			"map": "Town-Halloween",
+			"position": [24, 73],
+			"direction": 0
+		},
+		{
+			"name": "Kenneth",
+			"map": "Town-Halloween",
+			"position": [36, 74],
+			"direction": 1
+		},
+		{
+			"name": "Lenny",
+			"map": "Town-Halloween",
+			"position": [27, 69],
+			"direction": 2
+		},
+		{
+			"name": "Lola",
+			"map": "Town-Halloween",
+			"position": [17, 64],
+			"direction": 2
+		},
+		{
+			"name": "Maddie",
+			"map": "Town-Halloween",
+			"position": [20, 47],
+			"direction": 0
+		},
+		{
+			"name": "Olga",
+			"map": "Town-Halloween",
+			"position": [22, 64],
+			"direction": 1
+		},
+		{
+			"name": "Philip",
+			"map": "Town-Halloween",
+			"position": [26, 49],
+			"direction": 3
+		},
+		{
+			"name": "Pika",
+			"map": "Town-Halloween",
+			"position": [31, 72],
+			"direction": 1
+		},
+		{
+			"name": "Richard",
+			"map": "Town-Halloween",
+			"position": [28, 72],
+			"direction": 3
+		},
+		{
+			"name": "Shiro",
+			"map": "Town-Halloween",
+			"position": [23, 49],
+			"direction": 0
+		},
+		{
+			"name": "Trinnie",
+			"map": "Town-Halloween",
+			"position": [23, 72],
+			"direction": 1
+		},
+		{
+			"name": "Ysabelle",
+			"map": "Town-Halloween",
+			"position": [28, 64],
+			"direction": 3
+		},
+		{
+			"name": "Yuuma",
+			"map": "Town-Halloween",
+			"position": [23, 74],
+			"direction": 3
+		},
+		
+	//IceFest
+		{
+			"name": "Aguar",
+			"map": "Forest-IceFestival",
+			"position": [94, 37],
+			"direction": 3
+		},
+		{
+			"name": "Alissa",
+			"map": "Forest-IceFestival",
+			"position": [53, 53],
+			"direction": 0
+		},
+		{
+			"name": "Bert",
+			"map": "Forest-IceFestival",
+			"position": [63, 26],
+			"direction": 3
+		},
+		{
+			"name": "Corine",
+			"map": "Forest-IceFestival",
+			"position": [62, 21],
+			"direction": 1
+		},
+		{
+			"name": "Ezekiel",
+			"map": "Forest-IceFestival",
+			"position": [65, 22],
+			"direction": 3
+		},
+		{
+			"name": "Flor",
+			"map": "Forest-IceFestival",
+			"position": [58, 35],
+			"direction": 1
+		},
+		{
+			"name": "Freddie",
+			"map": "Forest-IceFestival",
+			"position": [80, 33],
+			"direction": 3
+		},
+		{
+			"name": "Ian",
+			"map": "Forest-IceFestival",
+			"position": [83, 31],
+			"direction": 3
+		},
+		{
+			"name": "Jeric",
+			"map": "Forest-IceFestival",
+			"position": [53, 51],
+			"direction": 2
+		},
+		{
+			"name": "Keahi",
+			"map": "Forest-IceFestival",
+			"position": [91, 33],
+			"direction": 0
+		},
+		{
+			"name": "Kenneth",
+			"map": "Forest-IceFestival",
+			"position": [79, 44],
+			"direction": 3
+		},
+		{
+			"name": "Lenny",
+			"map": "Forest-IceFestival",
+			"position": [69, 42],
+			"direction": 0
+		},
+		{
+			"name": "Lola",
+			"map": "Forest-IceFestival",
+			"position": [80, 34],
+			"direction": 3
+		},
+		{
+			"name": "Maddie",
+			"map": "Forest-IceFestival",
+			"position": [64, 21],
+			"direction": 3
+		},
+		{
+			"name": "Olga",
+			"map": "Forest-IceFestival",
+			"position": [61, 26],
+			"direction": 1
+		},
+		{
+			"name": "Philip",
+			"map": "Forest-IceFestival",
+			"position": [75, 24],
+			"direction": 2
+		},
+		{
+			"name": "Pika",
+			"map": "Forest-IceFestival",
+			"position": [60, 49],
+			"direction": 1
+		},
+		{
+			"name": "Richard",
+			"map": "Forest-IceFestival",
+			"position": [61, 50],
+			"direction": 0
+		},
+		{
+			"name": "Shiro",
+			"map": "Forest-IceFestival",
+			"position": [88, 26],
+			"direction": 3
+		},
+		{
+			"name": "Trinnie",
+			"map": "Forest-IceFestival",
+			"position": [89, 34],
+			"direction": 3
+		},
+		{
+			"name": "Ysabelle",
+			"map": "Forest-IceFestival",
+			"position": [63, 20],
+			"direction": 2
+		},
+		{
+			"name": "Yuuma",
+			"map": "Forest-IceFestival",
+			"position": [87, 30],
+			"direction": 1
+		},
+		
+	//WinterStar
+		{
+			"name": "Aguar",
+			"map": "Town-Christmas",
+			"position": [8, 64],
+			"direction": 1
+		},
+		{
+			"name": "Alissa",
+			"map": "Town-Christmas",
+			"position": [25, 65],
+			"direction": 3
+		},
+		{
+			"name": "Bert",
+			"map": "Town-Christmas",
+			"position": [22, 62],
+			"direction": 2
+		},
+		{
+			"name": "Corine",
+			"map": "Town-Christmas",
+			"position": [32, 61],
+			"direction": 3
+		},
+		{
+			"name": "Ezekiel",
+			"map": "Town-Christmas",
+			"position": [31, 60],
+			"direction": 2
+		},
+		{
+			"name": "Flor",
+			"map": "Town-Christmas",
+			"position": [32, 56],
+			"direction": 2
+		},
+		{
+			"name": "Freddie",
+			"map": "Town-Christmas",
+			"position": [38, 72],
+			"direction": 3
+		},
+		{
+			"name": "Ian",
+			"map": "Town-Christmas",
+			"position": [21, 71],
+			"direction": 1
+		},
+		{
+			"name": "Jeric",
+			"map": "Town-Christmas",
+			"position": [30, 61],
+			"direction": 1
+		},
+		{
+			"name": "Keahi",
+			"map": "Town-Christmas",
+			"position": [27, 70],
+			"direction": 0
+		},
+		{
+			"name": "Kenneth",
+			"map": "Town-Christmas",
+			"position": [26, 55],
+			"direction": 1
+		},
+		{
+			"name": "Lenny",
+			"map": "Town-Christmas",
+			"position": [26, 62],
+			"direction": 1
+		},
+		{
+			"name": "Lola",
+			"map": "Town-Christmas",
+			"position": [38, 73],
+			"direction": 3
+		},
+		{
+			"name": "Maddie",
+			"map": "Town-Christmas",
+			"position": [23, 53],
+			"direction": 2
+		},
+		{
+			"name": "Olga",
+			"map": "Town-Christmas",
+			"position": [21, 66],
+			"direction": 1
+		},
+		{
+			"name": "Philip",
+			"map": "Town-Christmas",
+			"position": [28, 55],
+			"direction": 3
+		},
+		{
+			"name": "Pika",
+			"map": "Town-Christmas",
+			"position": [23, 74],
+			"direction": 0
+		},
+		{
+			"name": "Richard",
+			"map": "Town-Christmas",
+			"position": [30, 74],
+			"direction": 0
+		},
+		{
+			"name": "Shiro",
+			"map": "Town-Christmas",
+			"position": [41, 59],
+			"direction": 3
+		},
+		{
+			"name": "Trinnie",
+			"map": "Town-Christmas",
+			"position": [21, 62],
+			"direction": 1
+		},
+		{
+			"name": "Ysabelle",
+			"map": "Town-Christmas",
+			"position": [31, 74],
+			"direction": 0
+		},
+		{
+			"name": "Yuuma",
+			"map": "Town-Christmas",
+			"position": [41, 60],
+			"direction": 3
+		},
+
+			//RSV Gathering
+		{
+			"name": "Aguar",
+			"map": "RSVGathering",
+			"position": [74, 30],
+			"direction": 0
+		},
+		{
+			"name": "Alissa",
+			"map": "RSVGathering",
+			"position": [109, 45],
+			"direction": 2
+		},
+		{
+			"name": "Bert",
+			"map": "RSVGathering",
+			"position": [75, 63],
+			"direction": 3
+		},
+		{
+			"name": "Corine",
+			"map": "RSVGathering",
+			"position": [111, 47],
+			"direction": 1
+		},
+		{
+			"name": "Ezekiel",
+			"map": "RSVGathering",
+			"position": [95, 56],
+			"direction": 2
+		},
+		{
+			"name": "Flor",
+			"map": "RSVGathering",
+			"position": [105, 52],
+			"direction": 1
+		},
+		{
+			"name": "Freddie",
+			"map": "RSVGathering",
+			"position": [85, 61],
+			"direction": 2
+		},
+		{
+			"name": "Ian",
+			"map": "RSVGathering",
+			"position": [123, 56],
+			"direction": 0
+		},
+		{
+			"name": "Jeric",
+			"map": "RSVGathering",
+			"position": [120, 45],
+			"direction": 2
+		},
+		{
+			"name": "Jio",
+			"map": "RSVGathering",
+			"position": [76, 29],
+			"direction": 3
+		},
+		{
+			"name": "Keahi",
+			"map": "RSVGathering",
+			"position": [115, 51],
+			"direction": 3
+		},
+		{
+			"name": "Kenneth",
+			"map": "RSVGathering",
+			"position": [122, 51],
+			"direction": 3
+		},
+		{
+			"name": "Kiwi",
+			"map": "RSVGathering",
+			"position": [77, 31],
+			"direction": 2
+		},
+		{
+			"name": "Lenny",
+			"map": "RSVGathering",
+			"position": [85, 51],
+			"direction": 2
+		},
+		{
+			"name": "Lola",
+			"map": "RSVGathering",
+			"position": [84, 61],
+			"direction": 3
+		},
+		{
+			"name": "Maddie",
+			"map": "RSVGathering",
+			"position": [106, 46],
+			"direction": 1
+		},
+		{
+			"name": "Olga",
+			"map": "RSVGathering",
+			"position": [87, 56],
+			"direction": 2
+		},
+		{
+			"name": "Philip",
+			"map": "RSVGathering",
+			"position": [117, 48],
+			"direction": 3
+		},
+		{
+			"name": "Pika",
+			"map": "RSVGathering",
+			"position": [80, 56],
+			"direction": 2
+		},
+		{
+			"name": "Richard",
+			"map": "RSVGathering",
+			"position": [77, 62],
+			"direction": 1
+		},
+		{
+			"name": "Shiro",
+			"map": "RSVGathering",
+			"position": [122, 46],
+			"direction": 3
+		},
+		{
+			"name": "Trinnie",
+			"map": "RSVGathering",
+			"position": [112, 51],
+			"direction": 1
+		},
+		{
+			"name": "Ysabelle",
+			"map": "RSVGathering",
+			"position": [106, 50],
+			"direction": 1
+		},
+		{
+			"name": "Yuuma",
+			"map": "RSVGathering",
+			"position": [115, 45],
+			"direction": 3
+		},
+
+					//RSV EOR
+		{
+			"name": "Aguar",
+			"map": "EmberNight",
+			"position": [27, 30],
+			"direction": 1
+		},
+		{
+			"name": "Alissa",
+			"map": "EmberNight",
+			"position": [36, 32],
+			"direction": 0
+		},
+		{
+			"name": "Bert",
+			"map": "EmberNight",
+			"position": [42, 28],
+			"direction": 2
+		},
+		{
+			"name": "Corine",
+			"map": "EmberNight",
+			"position": [29, 47],
+			"direction": 1
+		},
+		{
+			"name": "Ezekiel",
+			"map": "EmberNight",
+			"position": [26, 38],
+			"direction": 2
+		},
+		{
+			"name": "Flor",
+			"map": "EmberNight",
+			"position": [39, 53],
+			"direction": 2
+		},
+		{
+			"name": "Freddie",
+			"map": "EmberNight",
+			"position": [32, 36],
+			"direction": 1
+		},
+		{
+			"name": "Ian",
+			"map": "EmberNight",
+			"position": [53, 35],
+			"direction": 1
+		},
+		{
+			"name": "Jeric",
+			"map": "EmberNight",
+			"position": [49, 47],
+			"direction": 2
+		},
+		{
+			"name": "Jio",
+			"map": "EmberNight",
+			"position": [40, 11],
+			"direction": 2
+		},
+		{
+			"name": "Keahi",
+			"map": "EmberNight",
+			"position": [32, 41],
+			"direction": 3
+		},
+		{
+			"name": "Kenneth",
+			"map": "EmberNight",
+			"position": [45, 28],
+			"direction": 2
+		},
+		{
+			"name": "Kiwi",
+			"map": "EmberNight",
+			"position": [39, 11],
+			"direction": 2
+		},
+		{
+			"name": "Lenny",
+			"map": "EmberNight",
+			"position": [44, 46],
+			"direction": 3
+		},
+		{
+			"name": "Lola",
+			"map": "EmberNight",
+			"position": [34, 34],
+			"direction": 2
+		},
+		{
+			"name": "Maddie",
+			"map": "EmberNight",
+			"position": [49, 49],
+			"direction": 0
+		},
+		{
+			"name": "Olga",
+			"map": "EmberNight",
+			"position": [34, 44],
+			"direction": 2
+		},
+		{
+			"name": "Philip",
+			"map": "EmberNight",
+			"position": [32, 32],
+			"direction": 0
+		},
+		{
+			"name": "Pika",
+			"map": "EmberNight",
+			"position": [38, 30],
+			"direction": 3
+		},
+		{
+			"name": "Richard",
+			"map": "EmberNight",
+			"position": [51, 39],
+			"direction": 1
+		},
+		{
+			"name": "Shiro",
+			"map": "EmberNight",
+			"position": [43, 32],
+			"direction": 2
+		},
+		{
+			"name": "Trinnie",
+			"map": "EmberNight",
+			"position": [31, 42],
+			"direction": 0
+		},
+		{
+			"name": "Ysabelle",
+			"map": "EmberNight",
+			"position": [31, 47],
+			"direction": 3
+		},
+		{
+			"name": "Yuuma",
+			"map": "EmberNight",
+			"position": [42, 33],
+			"direction": 2
+		}
+	],
   
   "spouseRooms": [
 	{
