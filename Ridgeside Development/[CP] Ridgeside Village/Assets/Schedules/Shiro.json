@@ -20,7 +20,7 @@
 			"marriage_Mon": "1000 Custom_Ridgeside_RSVCliff 5 19 2 square_1_2_2/1200 Town 17 53 2/1400 Town 26 30 0/1500 Town 59 28 0/1600 Town 44 80 3/2000 BusStop -1 23 3",
 			"marriage_Wed": "900 Custom_Ridgeside_ShiroHouse 3 9 2/1530 Custom_Ridgeside_RidgesideVillage 131 33 3/1800 Custom_Ridgeside_ShiroHouse 3 6 2/2200 BusStop -1 23 3",
 			"marriage_Sun": "900 Hospital 13 16 1/1300 SeedShop 13 18 2/1600 Custom_Ridgeside_ShiroHouse 3 6 2/2200 BusStop -1 23 3",
-			"marriage_winter_16": "900 Hospital 13 16 1/1300 SeedShop 13 18 2/1700 Beach 13 21 2/2200 BusStop -1 23 3",
+			"marriage_winter_16": "900 Hospital 13 16 1/1400 Beach 13 21 2/2200 BusStop -1 23 3",
 	
 					},
 	},

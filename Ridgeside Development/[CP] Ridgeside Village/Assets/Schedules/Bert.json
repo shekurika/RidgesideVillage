@@ -15,7 +15,7 @@
 			"Mon": "610 Custom_Ridgeside_BertHouse 6 8 3/800 SeedShop 15 30 0/1200 ManorHouse 3 7 2/1800 Custom_Ridgeside_BertHouse 6 8 3/2200 Custom_Ridgeside_BertHouse2ndFloor 1 5 0 bert_sleep",
 			"Fri": "GOTO Mon",
 			"Sun": "800 Custom_Ridgeside_BertHouse 11 13 0 square_3_1_0/1200 Custom_Ridgeside_BertHouse 6 8 3/1600 Custom_Ridgeside_BertHouse2ndFloor 5 5 0/2000 Custom_Ridgeside_BertHouse 6 8 3/2200 Custom_Ridgeside_BertHouse2ndFloor 1 5 0 bert_sleep",
-			"winter_15": "610 Custom_Ridgeside_BertHouse 6 8 3/1600 Beach 15 16 2/2200 Custom_Ridgeside_BertHouse2ndFloor 1 5 0 bert_sleep",
+			"winter_15": "610 Custom_Ridgeside_BertHouse 6 8 3/1100 Beach 15 16 2/2200 Custom_Ridgeside_BertHouse2ndFloor 1 5 0 bert_sleep",
 
 					},
 	},
