@@ -864,7 +864,7 @@
 	*********/
 	{
 		"Action": "Include",
-		"FromFile": "Data/IncludeData/IncludeDependencyData.json, Data/IncludeData/IncludeDynamicChanges.json, Data/IncludeData/IncludeEvents.json, Data/IncludeData/IncludeFestival.json, Data/IncludeData/IncludeInterModCompat.json, Data/IncludeData/IncludeMapData.json, Data/IncludeData/IncludeNPCData.json, Data/IncludeData/IncludeSeasonalOutfits.json, Data/IncludeData/IncludeTilesheets.json"
+		"FromFile": "Data/IncludeData/IncludeDependencyData.json, Data/IncludeData/IncludeDynamicChanges.json, Data/IncludeData/IncludeEvents.json, Data/IncludeData/IncludeFestival.json, Data/IncludeData/IncludeInterModCompat.json, Data/IncludeData/IncludeMapData.json, Data/IncludeData/IncludeNPCData.json, Data/IncludeData/IncludeTilesheets.json"
 	},
 
 ],
