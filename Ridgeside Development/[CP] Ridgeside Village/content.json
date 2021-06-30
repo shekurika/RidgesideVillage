@@ -725,8 +725,7 @@
 	{
 		"LogName": "Include Fish Data",
 		"Action": "Include",
-		"FromFile": "Data/Fish/FishData, Data/Fish/FishPond"
-		//Data/Fish/Aquarium, 
+		"FromFile": "Data/Fish/Aquarium, Data/Fish/FishData, Data/Fish/FishPond"
 	},
 
 	//Include Dynamic Changes
