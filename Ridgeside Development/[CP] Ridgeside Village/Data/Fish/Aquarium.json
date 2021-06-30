@@ -1,0 +1,30 @@
+{
+"Changes": [
+	
+//Aquarium
+	{
+		"Action": "EditData",
+		"Target": "Data/AquariumFish",
+		"Entries": {
+			"{{spacechase0.JsonAssets/ObjectId:Bladetail Sturgeon}}": "93/fish",
+			"{{spacechase0.JsonAssets/ObjectId:Caped Tree Frog}}": "94/crawl",
+			"{{spacechase0.JsonAssets/ObjectId:Cardia Septal Jellyfish}}": "95/float",
+			"{{spacechase0.JsonAssets/ObjectId:Crimson Spiked Clam}}": "96/static",
+			"{{spacechase0.JsonAssets/ObjectId:Fairytale Lionfish}}": "97/fish",
+			"{{spacechase0.JsonAssets/ObjectId:Fixer Eel}}": "98/fish",
+			"{{spacechase0.JsonAssets/ObjectId:Golden Rose Fin}}": "99/fish",
+			"{{spacechase0.JsonAssets/ObjectId:Harvester Trout}}": "100/fish",
+			"{{spacechase0.JsonAssets/ObjectId:Lullaby Carp}}": "101/fish",
+			"{{spacechase0.JsonAssets/ObjectId:Pebble Back Crab}}": "102/crawl",
+		},
+	},
+
+	{
+		"Action": "EditImage",
+		"Target": "LooseSprites/AquariumFish",
+		"FromFile": "assets/LooseSprites/RSVFishesAquarium.png",
+		"ToArea": { "X": 288, "Y": 192, "Width": 192, "Height": 48 },
+	},
+
+]
+}
