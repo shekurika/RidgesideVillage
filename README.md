@@ -1,5 +1,8 @@
 # Welcome to Ridgeside Village!
 
+THE NEW GITHUB REPO IS:
+https://github.com/Rafseazz/Ridgeside-Village-Mod
+
 A small village located on the west side of Stardew Valley.
 Go up the stairs north-east of the bus stop and hop in the cable car to the village!.
 Meet new interesting people with immersive backstories, engaging dialogue and exciting events! Discover new forage, stories, secrets, maybe even fall in love? Who knows!? A lot can happen in Ridgeside Village!
